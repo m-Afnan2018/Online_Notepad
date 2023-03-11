@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color: blue;
+}
+
+#wrapper{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: var(--color);
+}
